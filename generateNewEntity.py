@@ -180,4 +180,4 @@ decisions = {
 destination_folder = r"D:\OfficeProjects\ProjectGenerator\MyNewApp"
 
     # clone entity
-clone_entity_from_project_with_decisions(destination_folder, 'D:\OfficeProjects\ProjectGenerator\NewEntity\OrderDetail.cs', 'Tenant',decisions)
+clone_entity_from_project_with_decisions(destination_folder, r'D:\OfficeProjects\ProjectGenerator\NewEntity\OrderDetail.cs', 'Tenant',decisions)
