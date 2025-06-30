@@ -1,0 +1,399 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\OfficeProjects\\ProjectName\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8ADAF360-AFE1-46E0-BFB9-A8EC87133CB0}|src\\ProjectName.Infrastructure\\ProjectName.Infrastructure.csproj|d:\\officeprojects\\projectname\\src\\projectname.infrastructure\\writedbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ADAF360-AFE1-46E0-BFB9-A8EC87133CB0}|src\\ProjectName.Infrastructure\\ProjectName.Infrastructure.csproj|solutionrelative:src\\projectname.infrastructure\\writedbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ADAF360-AFE1-46E0-BFB9-A8EC87133CB0}|src\\ProjectName.Infrastructure\\ProjectName.Infrastructure.csproj|d:\\officeprojects\\projectname\\src\\projectname.infrastructure\\projectname.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8ADAF360-AFE1-46E0-BFB9-A8EC87133CB0}|src\\ProjectName.Infrastructure\\ProjectName.Infrastructure.csproj|solutionrelative:src\\projectname.infrastructure\\projectname.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ADAF360-AFE1-46E0-BFB9-A8EC87133CB0}|src\\ProjectName.Infrastructure\\ProjectName.Infrastructure.csproj|d:\\officeprojects\\projectname\\src\\projectname.infrastructure\\dbcontext\\writedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ADAF360-AFE1-46E0-BFB9-A8EC87133CB0}|src\\ProjectName.Infrastructure\\ProjectName.Infrastructure.csproj|solutionrelative:src\\projectname.infrastructure\\dbcontext\\writedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BB1E674-BC4C-4A4E-873E-FEE2F57AED4E}|src\\ProjectName.Api\\ProjectName.Api.csproj|d:\\officeprojects\\projectname\\src\\projectname.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7BB1E674-BC4C-4A4E-873E-FEE2F57AED4E}|src\\ProjectName.Api\\ProjectName.Api.csproj|solutionrelative:src\\projectname.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{92EEC4C4-C67F-4396-B93A-396DF9E9B307}|tests\\ProjectName.Api.IntegrationTests\\ProjectName.Api.IntegrationTests.csproj|d:\\officeprojects\\projectname\\tests\\projectname.api.integrationtests\\common\\customwebapplicationfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92EEC4C4-C67F-4396-B93A-396DF9E9B307}|tests\\ProjectName.Api.IntegrationTests\\ProjectName.Api.IntegrationTests.csproj|solutionrelative:tests\\projectname.api.integrationtests\\common\\customwebapplicationfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BB1E674-BC4C-4A4E-873E-FEE2F57AED4E}|src\\ProjectName.Api\\ProjectName.Api.csproj|d:\\officeprojects\\projectname\\src\\projectname.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7BB1E674-BC4C-4A4E-873E-FEE2F57AED4E}|src\\ProjectName.Api\\ProjectName.Api.csproj|solutionrelative:src\\projectname.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0ACE699F-9079-4F51-B819-FDE8B47FBA4A}|src\\ProjectName.Domain\\ProjectName.Domain.csproj|d:\\officeprojects\\projectname\\src\\projectname.domain\\idbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0ACE699F-9079-4F51-B819-FDE8B47FBA4A}|src\\ProjectName.Domain\\ProjectName.Domain.csproj|solutionrelative:src\\projectname.domain\\idbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 67,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:11:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:139:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:140:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:141:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:142:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:143:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:144:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:145:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:146:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:147:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:148:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:149:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:150:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:151:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:152:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:153:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:154:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:155:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:156:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:157:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:158:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:159:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:160:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:161:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:162:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:163:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:164:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:165:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:166:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:167:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:168:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:169:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:170:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:171:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:172:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:173:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:174:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:175:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:176:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WriteDbContext.cs",
+              "DocumentMoniker": "D:\\OfficeProjects\\ProjectName\\src\\ProjectName.Infrastructure\\DbContext\\WriteDbContext.cs",
+              "RelativeDocumentMoniker": "src\\ProjectName.Infrastructure\\DbContext\\WriteDbContext.cs",
+              "ToolTip": "D:\\OfficeProjects\\ProjectName\\src\\ProjectName.Infrastructure\\DbContext\\WriteDbContext.cs",
+              "RelativeToolTip": "src\\ProjectName.Infrastructure\\DbContext\\WriteDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T08:58:45.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WriteDbContextFactory.cs",
+              "DocumentMoniker": "D:\\OfficeProjects\\ProjectName\\src\\ProjectName.Infrastructure\\WriteDbContextFactory.cs",
+              "RelativeDocumentMoniker": "src\\ProjectName.Infrastructure\\WriteDbContextFactory.cs",
+              "ToolTip": "D:\\OfficeProjects\\ProjectName\\src\\ProjectName.Infrastructure\\WriteDbContextFactory.cs",
+              "RelativeToolTip": "src\\ProjectName.Infrastructure\\WriteDbContextFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T08:04:45.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProjectName.Infrastructure.csproj",
+              "DocumentMoniker": "D:\\OfficeProjects\\ProjectName\\src\\ProjectName.Infrastructure\\ProjectName.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "src\\ProjectName.Infrastructure\\ProjectName.Infrastructure.csproj",
+              "ToolTip": "D:\\OfficeProjects\\ProjectName\\src\\ProjectName.Infrastructure\\ProjectName.Infrastructure.csproj",
+              "RelativeToolTip": "src\\ProjectName.Infrastructure\\ProjectName.Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-26T07:47:56.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\OfficeProjects\\ProjectName\\src\\ProjectName.Api\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "src\\ProjectName.Api\\appsettings.Development.json",
+              "ToolTip": "D:\\OfficeProjects\\ProjectName\\src\\ProjectName.Api\\appsettings.Development.json",
+              "RelativeToolTip": "src\\ProjectName.Api\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-23T11:18:36.214Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\OfficeProjects\\ProjectName\\src\\ProjectName.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "src\\ProjectName.Api\\appsettings.json",
+              "ToolTip": "D:\\OfficeProjects\\ProjectName\\src\\ProjectName.Api\\appsettings.json",
+              "RelativeToolTip": "src\\ProjectName.Api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-23T11:18:32.161Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CustomWebApplicationFactory.cs",
+              "DocumentMoniker": "D:\\OfficeProjects\\ProjectName\\tests\\ProjectName.Api.IntegrationTests\\Common\\CustomWebApplicationFactory.cs",
+              "RelativeDocumentMoniker": "tests\\ProjectName.Api.IntegrationTests\\Common\\CustomWebApplicationFactory.cs",
+              "ToolTip": "D:\\OfficeProjects\\ProjectName\\tests\\ProjectName.Api.IntegrationTests\\Common\\CustomWebApplicationFactory.cs",
+              "RelativeToolTip": "tests\\ProjectName.Api.IntegrationTests\\Common\\CustomWebApplicationFactory.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAAwB0AAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T11:18:24.414Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IDbContext.cs",
+              "DocumentMoniker": "D:\\OfficeProjects\\ProjectName\\src\\ProjectName.Domain\\IDbContext.cs",
+              "RelativeDocumentMoniker": "src\\ProjectName.Domain\\IDbContext.cs",
+              "ToolTip": "D:\\OfficeProjects\\ProjectName\\src\\ProjectName.Domain\\IDbContext.cs",
+              "RelativeToolTip": "src\\ProjectName.Domain\\IDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T11:15:32.4Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
