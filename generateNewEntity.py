@@ -160,6 +160,9 @@ decisions = {
     "src\\MyNewApp.Infrastructure\\Repositories\\TenantRepository.cs": "clone_full",
     "src\\MyNewApp.Application\\Abstraction\\CacheRepositories\\ITenantCacheRepository.cs": "clone_full",
     "src\\MyNewApp.Application\\Abstraction\\Repositories\\ITenantRepository.cs": "clone_full",
+    "src\\MyNewApp.Application\\Abstraction\\Contexts\\IApplicationDbContext.cs": "add_registration",
+    "src\\MyNewApp.Infrastructure\\DbContext\\ReadDbContext.cs": "add_registration",
+    "src\\MyNewApp.Infrastructure\\DbContext\\WriteDbContext.cs": "add_registration",
     "src\\MyNewApp.Application\\Features\\Tenant": "clone_full",
     "src\\MyNewApp.Domain\\Entities\\Tenant": "copy_empty",
     "src\\MyNewApp.Infrastructure\\Configuration\\Read\\TenantReadConfiguration.cs": "clone_full",
@@ -179,5 +182,28 @@ decisions = {
 
 destination_folder = r"D:\OfficeProjects\ProjectGenerator\MyNewApp"
 
+entities = [
+    {
+        "name": "Product",
+        "template_path": r"D:\OfficeProjects\ProjectGenerator\NewEntity\Product.cs"
+    },
+    {
+        "name": "Order",
+        "template_path": r"D:\OfficeProjects\ProjectGenerator\NewEntity\Order.cs"
+    },
+    {
+        "name": "OrderDetail",
+        "template_path": r"D:\OfficeProjects\ProjectGenerator\NewEntity\OrderDetail.cs"
+    },
+    # Add more entities as needed
+]
+destination_folder = r"D:\OfficeProjects\ProjectGenerator\MyNewApp"
     # clone entity
-clone_entity_from_project_with_decisions(destination_folder, r'D:\OfficeProjects\ProjectGenerator\NewEntity\OrderDetail.cs', 'Tenant',decisions)
+for entity in entities:
+    print(f"🔁 Processing {entity['name']}")
+    clone_entity_from_project_with_decisions(
+        destination_folder,
+        entity["template_path"],
+        "Tenant",  # Template base entity name
+        decisions
+    )

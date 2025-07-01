@@ -14,6 +14,6 @@ namespace MyNewApp.Domain.Entities.Product
 
     public bool IsDeleted { get; set; }
 
-    public int Value => Name.ToString();
+     public int Value => Id;
 }
 }
